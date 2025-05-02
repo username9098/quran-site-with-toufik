@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>موقع سور قصيرة</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>سور قصيرة من القرآن الكريم</h1>
+  </header>
+  <main>
+    <ul class="surah-list">
+      <li><a href="surah-al-fatiha.html">سورة الفاتحة</a></li>
+      <li><a href="surah-ikhlas.html">سورة الإخلاص</a></li>
+      <li><a href="surah-falaq.html">سورة الفلق</a></li>
+      <li><a href="surah-naas.html">سورة الناس</a></li>
+    </ul>
+  </main>
+</body>
+</html>
